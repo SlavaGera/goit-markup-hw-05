@@ -3,7 +3,7 @@
     openModalBtn: document.querySelector("[data-modal-open]"),
     closeModalBtn: document.querySelector("[data-modal-close]"),
     modal: document.querySelector("[data-modal]"),
-    body: document.querySelector("[data-body]"),
+    // body: document.querySelector("[data-body]"), подумать как можно исправить
     html: document.documentElement,
   };
 
